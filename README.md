@@ -2,10 +2,10 @@
 
 This is a basic calculator program written in C++. 
 It performs:
-Addition
-Subtraction
-Multiplication
-Division- using a menu-driven interface.
+Addition,
+Subtraction,
+Multiplication,
+Division using a menu-driven interface.
 
 ## How to Run
 
